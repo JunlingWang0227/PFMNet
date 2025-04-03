@@ -1,6 +1,6 @@
-# MMAL-Net
+# PFMNet
 
-This is a PyTorch implementation of the paper ["Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization (MMAL-Net)"](https://arxiv.org/abs/2003.09150) (Fan Zhang, Meng Li, Guisheng Zhai, Yizhao Liu), and the paper has been accepted by the 27th International Conference on Multimedia Modeling (MMM2021). Welcome to discuss with us in issues!
+This is a PyTorch implementation of the paper "Progressive feature learning and multiplicative feature fusion network for corn disease recognition"(https://doi.org/10.21203/rs.3.rs-5711522/v1).
 
 ![avatar](./network.png)
 
